@@ -1,8 +1,11 @@
-Vortec engines love boost.
-The 4L60E does not.
+The easiest, best, cheapest boost controller ever. No wiring, no tuning, no blown 4L60s.
 
-This controller gives you boost only when the drivetrain can handle it. It's smooth to drive and won't blow your trans up. It requires no wiring or special setup.
+Uses CAN data and math to apply boost only when the 4L60E can take it. Self-learns and improves over time.
 
+
+
+HOW TO USE
+Install the dongle on OBD2 port under dash. Pass the boost controller wire through the firewall and mount it in the engine bay. Use it as a four-port.
 
 
 
